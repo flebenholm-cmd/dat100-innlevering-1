@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//tanken var at dette er oppgave oblig 2 & 3 samtidig, hvis det går greit. 
 public class Oblig2 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
